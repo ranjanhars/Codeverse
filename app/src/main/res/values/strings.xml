@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">travel</string>
+    <string name="default_web_client_id">935706011712-fvdsrqjg16jcq2l5djnifl2odveqt77r.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">[322700450725303 : travel]</string>
+    <string name="fb_login_protocol_scheme">fb[322700450725303 : travel]</string>
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
